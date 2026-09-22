@@ -1,0 +1,6 @@
+{
+  "name": "Capi Buy Properties",
+  "description": "Capi Buy Properties offers real estate services for buying, selling and renting properties across selected areas of Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
